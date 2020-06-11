@@ -6,9 +6,9 @@
 ```diff
 #App icon
 ```
-![Alt text](ss3.png)
+![Alt text](ss3.PNG)
 
 ```diff
 # Before clicking Roll Dice Button
 ```
-![Alt text](ss2.png)
+![Alt text](ss2.PNG)
