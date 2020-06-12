@@ -1,6 +1,6 @@
 # Dice-Roller
 ```diff
-+ Simple App to play games using virtual dice !!
++ Simple App to play dice based games using virtual dice !!
 ```
 # Working
 ```diff
